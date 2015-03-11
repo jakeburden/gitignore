@@ -21,7 +21,7 @@ The two fastest ways to utilize this repo are by using
 [curl](http://en.wikipedia.org/wiki/CURL) and
 [wget](http://en.wikipedia.org/wiki/Wget).
 
-There shortened url [git.io/ignore](git.io/ignore) links to the raw contents of 
+The shortened url [git.io/ignore](git.io/ignore) links to the raw contents of 
 [gitignore/gitignore](https://github.com/jekrb/gitignore/blob/master/gitignore).
 
 Now `cd` into your project directory and follow one of the commands below.
