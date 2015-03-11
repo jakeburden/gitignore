@@ -41,7 +41,7 @@ Now `cd` into your project directory and follow one of the commands below.
 Why?
 ----
 
-Let progammers to a mundane task enough times and they will find a way to 
+Let progammers do a mundane task enough times and they will find a way to 
 automate it.
 
 
